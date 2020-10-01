@@ -1,4 +1,4 @@
-# websitedemo1
+# La Gata Que Come
 Demo website HTML/CSS + Bootstrap + Font Awesome + Google Fonts. Responsive.
 https://programming-regina.github.io/la_gata_que_come/
 - Home
